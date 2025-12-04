@@ -1,1 +1,10 @@
 # AoC2025
+
+Me trying to speedsolve AoC (if I wake up in time)
+
+Times:
+
+D1: Forgot to wake up
+D2: 00:01:30 / 00:02:15
+D3: Forgot to wake up
+D4: 00:00:50 / 00:01:40
