@@ -43,7 +43,7 @@ def solveB(input: List[str]):
 
 
 if __name__ == "__main__":
-    inp = [i.strip() for i in sys.stdin.readlines()]
+    inp = [i for i in sys.stdin.read().splitlines() if i]
     solveA(inp)
     print()
     solveB(inp)
