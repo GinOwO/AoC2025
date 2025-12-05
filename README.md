@@ -12,4 +12,4 @@ D3: Forgot to wake up
 
 D4: 00:00:50 / 00:01:40
 
-D5: TBD
+D5: 00:04:37 / 00:13:50 (Got stuck in part 2 because of a typo I made during list merge)
