@@ -16,8 +16,8 @@ def preprocess(input: List[str]):
 
 
 if __name__ == "__main__":
-    raw_inp = [i for i in sys.stdin.read().splitlines()]
-    inp = preprocess(raw_inp)
-    solveA(inp, raw_inp)
+    raw_input = [i for i in sys.stdin.read().splitlines()]
+    input = preprocess(raw_input)
+    solveA(input, raw_input)
     print()
-    solveB(inp, raw_inp)
+    solveB(input, raw_input)
