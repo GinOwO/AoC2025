@@ -16,4 +16,8 @@ D5: 00:04:37 / 00:13:50 (Got stuck in part 2 because of a typo I made during lis
 
 D6: 00:03:20 / 00:10:33 (I hate having to include whitespaces in the table itself :skull:, then remembered zip_longest existed)
 
-D7: TBD
+D7: 00:13:20 / 00:22:00
+
+D8: Forgot to wake up
+
+D9: 00:01:45 / 00:46:37 (I hate geometry with a passion)
