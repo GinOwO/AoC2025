@@ -23,3 +23,5 @@ D8: Forgot to wake up
 D9: 00:01:45 / 00:46:37 (I hate geometry with a passion)
 
 D10: 00:10:11 / 00:59:37 (Tried bruting with bfs and A*, gave up and tried manually making a linalg solver, gave up and tried using numpy alone, wrong output and finally used scipy)
+
+D11: 00:02:21 / 00:10:39 (Relatively easy icl)
